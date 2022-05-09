@@ -165,7 +165,10 @@ When you group CSS selectors, you apply the same styles to several different ele
  (set the color of something to red, for example), you use a single CSS rule that accomplishes the same thing.
 
 
+18)What are the differences between relative and absolute in CSS?
+Relative positioning: The element creates its own coordinate axes, at a location offset from the viewport coordinate axis. It is Part of document flow but shifted.
 
+Absolute positioning: An element searches for the nearest available coordinate axes among its parent elements. The element is then positioned by specifying offsets from this coordinate axis. It is removed from document normal flow.
 
 
 
