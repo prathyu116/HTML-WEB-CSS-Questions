@@ -1,0 +1,85 @@
+# ****HTML CSS, WEB QUESTION BANK****
+
+**1)• Explain briefly what happens when you hit a url? explain DNS lookup**
+
+when i type [www.google.com](http://www.google.com) in browser it goest the DNS*(is a database that maintains the name of the website (URL) and the particular IP address)* severver which take the input name as domain name (here google.com) and returning the IP address . once the browser get the IP address it request to the IP containing  server to send HTML page.that display on browser
+
+**2)• What is a URLs full form? Explain what a url is and the four parts it consists of The protocol in use The hostname of the server The location of the file The arguments to the file**
+
+URL-: **Uniform Resource Locator**
+
+URL is the a complte address of website.each webpage have designated unique address called URL.URl have several parts
+
+✨Protocol
+
+✨Domain Name
+
+✨Port Number
+
+✨Folder/filepath
+
+*Protocol*
+
+protocol that is used to tranfer webpages on the web.HTTP and HTTPS are used for this
+
+*Domain Name*
+
+unique referance that identify a website
+
+eg:→www.google.com ..., here “.com” is  refered to as TOP LEVEL DOMAIN and “google” refered to as SECONDARY LEVEL DOMAIN ....map.google.com here map called the sub domain
+
+*Port Number*
+
+Used to identify an application on your system.HTTP protocol alway work on PORT number 80..they usally missing
+
+*Folder/filepath*
+
+which direct the browser to a specific page with in site
+
+3)• **What is HTTP protocol?**
+
+     **HTTP** is a [protocol](https://developer.mozilla.org/en-US/docs/Glossary/Protocol) for fetching resources such as HTML documents.HTTP is used to send,read,acess HTML page across the internet
+
+4)• **What is TCP protocol?**
+
+TCP (Transmission Control Protocol) is one of the main protocols of the Internet protocol suite. It lies between the Application and Network Layers which are used in providing reliable delivery services. It is a connection-oriented protocol for communications that helps in the exchange of messages between the different devices over a network.
+
+5)• Explain all the different HTTP methods?
+
+HTTP defines a set of **request methods**to indicate the desired action to be performed for a given resource.
+
+`[GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET)`
+
+The `GET` method requests a representation of the specified resource. Requests using `GET` should only retrieve data.
+
+`[HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD)`
+
+The `HEAD` method asks for a response identical to a `GET` request, but without the response body.
+
+`[POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)`
+
+The `POST` method submits an entity to the specified resource, often causing a change in state or side effects on the server.
+
+`[PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT)`
+
+The `PUT` method replaces all current representations of the target resource with the request payload.
+
+`[DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE)`
+
+The `DELETE` method deletes the specified resource.
+
+`[CONNECT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT)`
+
+The `CONNECT` method establishes a tunnel to the server identified by the target resource.
+
+`[OPTIONS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS)`
+
+The `OPTIONS` method describes the communication options for the target resource.
+
+`[TRACE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE)`
+
+The `TRACE` method performs a message loop-back test along the path to the target resource.
+
+`[PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH)`
+
+The `PATCH` method applies partial modifications to a resource.
