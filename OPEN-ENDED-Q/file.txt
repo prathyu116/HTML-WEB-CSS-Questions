@@ -1,0 +1,38 @@
+1)  What are some new things happening in the web?
+    React 18 is realeased
+    pythond-anaconda teams anounce pyscript for python in frontend
+
+
+2)  Explain a project that you have built?
+
+
+
+
+
+3)  Whats something exciting that you have built?
+    mini social media app using MERN stack
+
+4)  What are you most excited about?
+I have done the cource of full stack web developer in masai now i am really really excited to start my career in this field to see how things are actually 
+done in this field to start my career. I have lots of hopes to see my bright future.
+
+
+
+
+
+5)  Why do coding standards matter? What are some patterns you follow?
+
+MVC pattern
+
+
+
+
+
+6)  How do you go about managing responsive websites?
+   by applying media quries
+
+
+
+7)  What do you care about the most when you write software?
+    Write clean, transparent programs, reusable code meansGood code is easily read and understood by others.
+    code should be easy to debug and it should be focused on content.
