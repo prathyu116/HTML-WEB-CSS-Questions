@@ -21,18 +21,29 @@ done in this field to start my career. I have lots of hopes to see my bright fut
 
 
 5)  Why do coding standards matter? What are some patterns you follow?
+1.The source code will be more comprehensive(samagramayath) and will become easy-to-maintain.  
+This is because anyone can understand it and can modify it at any point in time.
 
-MVC pattern
 
+2.Minimal Complexity
+ when we follow coding standerd there is a high chance to minimise the complexity and thereby(അതുവഴി) reduce the errors.
+3.standerd code can be reused 
+
+--pattern i follow--
+Code Comments and Proper Documentation
+Use of Indentation like prettier
+Write as few lines as possible.
 
 
 
 
 6)  How do you go about managing responsive websites?
-   by applying media quries
+   by applying media quries i can make a website responsive also i care about fontsize,imagees,layout
 
 
 
 7)  What do you care about the most when you write software?
-    Write clean, transparent programs, reusable code meansGood code is easily read and understood by others.
-    code should be easy to debug and it should be focused on content.
+  Clarity and resusable code. 
+Clarity of design. 
+Clarity of purpose. 
+You must understand — really understand — what you're doing at every level.
